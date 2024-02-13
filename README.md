@@ -2,7 +2,7 @@ README by AKNEWS
 
 GITHUB LINK 
 
-https://ajdejucos.github.io/AKNEWS/
+
 
 GDRIVE LINK FOR FULL FILE
 
